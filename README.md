@@ -1,5 +1,4 @@
-# Project Title
-Assignment on Git-Docker
+# Assignment on Git-Docker
 
 **Name:** Rubina
 
